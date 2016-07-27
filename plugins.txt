@@ -1,5 +1,5 @@
 ghprb:1.32.8
 publish-over-ssh:1.14
-github-api:1.32.8
+github-api:1.76
 github:1.19.2
 ssh-agent:1.13
