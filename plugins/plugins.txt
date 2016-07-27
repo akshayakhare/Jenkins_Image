@@ -1,1 +1,2 @@
-Need to add some plugins
+ghprb:1.32.8
+publish-over-ssh:1.14
